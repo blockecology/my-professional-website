@@ -6,8 +6,8 @@ bio: I am a researcher, analyst, and consultant focused on climate change,
   biodiversity, and sustainability.
 interests:
   - Sustainability
-  - Data-Analysis
-  - Science-Communication
+  - '"Data Analysis"'
+  - '"Science Communication"'
 social:
   - icon: envelope
     icon_pack: fas
