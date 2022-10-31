@@ -27,8 +27,6 @@ image:
     than one thousand meters higher.  "
 url_code: ""
 ---
-
-
 Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates. 
 
 For the main component of my doctoral research, in collaboration with [Loic Pellisier](http://www.landecology.ethz.ch/the-group/people/loic-pellissier.html), and [Jake Alexander](https://alexanderecology.weebly.com/), we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation. 
@@ -50,6 +48,19 @@ Below you can watch a Swiss News report about the experiment.
 
 ## Data collection and modelling approach
 
-Every year we map the position and cover of all plants in the turfs. By comparing maps from one year to the next, we will estimate key demographic rates for each species as a function of climate and the competitive neighbourhood. With these estimated parameters we can build a model to project community dynamics over the next century under different climate change scenarios.
+<!--?xml version="1.0" encoding="UTF-8"?-->
+
+Every summer between 2017 and 2020 we mapped the position and cover of all plants in the transplanted turfs. By comparing maps from one year to the next, we estimated key demographic rates for each species as a function of climate and the density of other plants in the neighborhood. With these data, we built a model to project community dynamics over the next century under different climate change scenarios.
 
 ![vegetation sampling and demographic modelling approach ](modelling-siwa.png)
+
+
+
+F﻿or example, the animation below shows the output of our individual-based model of a subset of the alpine community between 2017 and 2098 under a scenario of moderate warming (RCP 4.5). 
+
+<!-- blank line -->
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/JTq9x_VrM0g" frameborder="0" allowfullscreen="true" width="720" height="405"> </iframe>
+</figure>
+<!-- blank line --> <br>
