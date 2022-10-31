@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 summary: ""
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Community dynamics in warmer mountains
@@ -50,4 +50,4 @@ Below you can watch a Swiss News report about the experiment.
 
 Every year we map the position and cover of all plants in the turfs. By comparing maps from one year to the next, we will estimate key demographic rates for each species as a function of climate and the competitive neighbourhood. With these estimated parameters we can build a model to project community dynamics over the next century under different climate change scenarios.
 
-![alpine plant community at 2000 m elevation in the Calanda mountain, eastern Swiss Alps](pulsatilla_calanda.jpg)
+![vegetation sampling and demographic modelling approach ](modelling-siwa.png)
