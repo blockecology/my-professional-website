@@ -6,7 +6,7 @@ url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
-title: Community dynamics in warmer mountains
+title: How will climate change affect alpine biodiversity?
 tags:
   - Climate Change
   - Biodiversity
@@ -27,6 +27,8 @@ image:
     than one thousand meters higher.  "
 url_code: ""
 ---
+
+
 Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates. 
 
 For the main component of my doctoral research, in collaboration with [Loic Pellisier](http://www.landecology.ethz.ch/the-group/people/loic-pellissier.html), and [Jake Alexander](https://alexanderecology.weebly.com/), we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation. 
@@ -42,7 +44,7 @@ Below you can watch a Swiss News report about the experiment.
 <!-- blank line -->
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/-aKZhiICIRY" frameborder="0" allowfullscreen="true" width="480" height="270"> </iframe>
+  <iframe src="https://www.youtube.com/embed/-aKZhiICIRY" frameborder="0" allowfullscreen="true" width="720" height="405"> </iframe>
 </figure>
 <!-- blank line --> <br>
 
