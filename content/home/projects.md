@@ -21,7 +21,7 @@ content:
     - name: Modelling
       tag: Modelling
 design:
-  columns: "1"
-  view: showcase
+  columns: "2"
+  view: masonry
   flip_alt_rows: false
 ---
