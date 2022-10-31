@@ -1,6 +1,5 @@
 ---
-title: How does forest diversity and carbon stocks vary across a complex
-  volcanic landscape
+title: How does forest diversity and structure vary across heterogeneous landscapes?
 date: 2022-10-31T20:45:02.342Z
 draft: false
 featured: false
