@@ -12,10 +12,14 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Climate Change
+      tag: Climate Change
+    - name: Biodiversity
+      tag: Biodiversity
+    - name: Forest Ecology
+      tag: Forest Ecology
+    - name: Modelling
+      tag: Modelling
 design:
   columns: "1"
   view: showcase
