@@ -2,8 +2,8 @@
 title: Sebastián Block
 role: Researcher | Analyst | Consultant
 avatar_filename: avatar.jpg
-bio: I am a researcher, analyst, and consultant focused on climate change,
-  biodiversity, and sustainability.
+bio: I use data analyses and modelling to support the sustainability efforts of
+  governments, corporations, and civil organizations.
 interests:
   - Environmental Sustainability
   - Data Analysis and Modelling
