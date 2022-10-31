@@ -19,7 +19,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename: pulsatilla_calanda.jpg
+  filename: featured.jpg
   alt_text: "a photograph of alpine vegetation at two thousand meters of elevation
     on the Calanda mountain, in the eastern Swiss Alps. The forefront shows a
     plant of the species Pulsatilla vernalis producing its fruits, which look
