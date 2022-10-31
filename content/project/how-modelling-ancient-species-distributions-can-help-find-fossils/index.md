@@ -1,5 +1,5 @@
 ---
-title: Modelling ancient species distributions to help find new fossils
+title: Can modelling ancient species distributions help find new fossils?
 date: 2022-10-31T20:37:20.725Z
 draft: false
 featured: false
