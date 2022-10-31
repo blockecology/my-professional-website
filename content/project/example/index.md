@@ -61,6 +61,6 @@ F﻿or example, the animation below shows the output of our individual-based mod
 <!-- blank line -->
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/JTq9x_VrM0g" frameborder="0" allowfullscreen="true" width="720" height="405"> </iframe>
+  <iframe src="https://www.youtube.com/embed/-JTq9x_VrM0g" frameborder="0" allowfullscreen="true" width="720" height="405"> </iframe>
 </figure>
 <!-- blank line --> <br>
