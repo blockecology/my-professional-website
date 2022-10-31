@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'The professional website of Sebastian Block Munguia, a researcher, data scientist, science communicator and consultant specialized in climate change, biodiversity and sustainability'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
