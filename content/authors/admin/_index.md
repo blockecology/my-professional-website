@@ -23,7 +23,7 @@ social:
     link: https://linkedin.com/in/sebastián-block-munguía-91743042/
 organizations:
   - name: Yale University
-    url: epi.yale.edu
+    url: https://epi.yale.edu
 education:
   courses:
     - course: PhD in Ecology and Evolutionary Biology
