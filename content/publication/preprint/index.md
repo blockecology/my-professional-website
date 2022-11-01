@@ -30,7 +30,7 @@ authors:
   - P Mariotte
   - D Rout
   - C Signarbieux
-  - **S Block**
+  - S Block
   - T Muenkemueller
   - H Nomoto
   - TW Crowther
