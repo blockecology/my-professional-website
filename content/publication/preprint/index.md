@@ -30,14 +30,14 @@ authors:
   - P Mariotte
   - D Rout
   - C Signarbieux
-  - S Block
+  - **S Block**
   - T Muenkemueller
   - H Nomoto
   - TW Crowther
   - A Richter
   - A Buttler
   - JM Alexander
-publication: ""
+publication: "*Elife*"
 featured: false
 tags:
   - Climate Change
@@ -46,22 +46,19 @@ tags:
 projects:
   - How will climate change affect alpine biodiversity?
 summary: ""
-url_dataset: "#"
+url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: "#"
-url_video: "#"
+url_source: ""
+url_video: ""
 date: 2022-05-12T21:10:40.484Z
 url_slides: ""
-links:
-  - name: Custom Link
-    url: http://example.org
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-doi: ""
+url_code: 
+doi: "10.7554/eLife.78555"
 ---
