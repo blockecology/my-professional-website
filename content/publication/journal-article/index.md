@@ -36,7 +36,7 @@ url_source: ""
 url_video: ""
 title: Ecological lags govern the pace and outcome of plant community responses
   to 21st century climate change
-doi: ""
+doi: 10.1111/ele.14087
 featured: false
 tags: []
 projects:
