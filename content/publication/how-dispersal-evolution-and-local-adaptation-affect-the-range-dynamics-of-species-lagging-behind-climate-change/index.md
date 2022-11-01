@@ -7,7 +7,7 @@ authors:
   - S Block
   - JM Levine
 doi: 10.1086/714130
-publication: The American Naturalist
+publication: *The American Naturalist*
 abstract: >
   As climate changes, species' ability to spatially track suitable climate
   depends on their spread velocity, a function of their population growth and
