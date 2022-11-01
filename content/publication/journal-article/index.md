@@ -16,7 +16,7 @@ abstract: >
   of changing species' abundances under simulated 21st-century climate change,
   and thereby prevented immediate diversity loss.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 publication_types:
   - "2"
 authors:
@@ -49,5 +49,5 @@ date: 2022-10-31T22:07:25.182Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: https://github.com/blockecology/lagging-meadows
 ---
