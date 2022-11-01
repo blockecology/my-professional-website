@@ -7,8 +7,8 @@ authors:
   - S Block
   - JM Alexander
   - JM Levine
-doi: 10.1111/oik.06667
-publication: *Oikos*
+doi: "10.1111/oik.06667"
+publication: "*Oikos*"
 abstract: Phenological shifts, changes in the seasonal timing of life cycle
   events, are among the best documented responses of species to climate change.
   However, the consequences of these phenological shifts for population dynamics
