@@ -11,11 +11,7 @@ tags:
   - Climate Change
   - Biodiversity
   - Modelling
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 image:
   caption: ""
   focal_point: Smart
