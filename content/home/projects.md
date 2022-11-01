@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: Research Projects
 headless: true
 weight: 60
-title: Projects
+title: Research Projects
 subtitle: ""
 active: true
 content:
